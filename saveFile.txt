@@ -1,0 +1,31 @@
+2
+Laptop L 0 1460 1
+Pink tie T 0 1500 0
+AL Laptop 0
+ML Bank 0
+MKV Bank 0
+ECH Bank 0
+PAS Bank 0
+HH Bank 0
+RCH Bank 0
+PAC Bank 0
+DWE Bank 0
+CPH Bank 0
+UWP Bank 0
+LHI Bank 0
+BMH Bank 0
+OPT Bank 0
+EV1 Bank 0
+EV2 Bank 0
+EV3 Bank 0
+V1 Bank 0
+PHYS Bank 0
+B1 Bank 0
+CIF Bank 0
+B2 Bank 0
+EIT Bank 0
+ESC Bank 0
+C2 Bank 0
+REV Bank 0
+MC Bank 0
+DC Bank 0
